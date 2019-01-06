@@ -4,6 +4,8 @@ asdsadsa
 asdsa
 just changed
 
+
+
 this is feature file
 there is a conflict
 this is second line
