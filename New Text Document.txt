@@ -3,18 +3,6 @@ sdsad
 asdsadsa
 asdsa
 just changed
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
->>>>>>> feature
-=======
-
->>>>>>> 3b31cb20cc9e8401889262db48b1362be97cb6a9
-
-=======
->>>>>>> feature
 
 this is feature file
 there is a conflict
@@ -27,20 +15,3 @@ nmdasda
 =======
 tgghs
 
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> feature
-
-06-01-2019
-wer
-=======
-
-06-01-2019
-wer
->>>>>>> feature
-=======
->>>>>>> feature
-
-06-01-2019
-wer
->>>>>>> 3b31cb20cc9e8401889262db48b1362be97cb6a9
