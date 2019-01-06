@@ -2,7 +2,7 @@ git sample
 sdsad
 asdsadsa
 asdsa
-
+just changed
 
 this is feature file
 there is a conflict
