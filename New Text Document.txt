@@ -4,7 +4,10 @@ asdsadsa
 asdsa
 just changed
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> feature
 
 =======
 >>>>>>> feature
@@ -20,7 +23,13 @@ nmdasda
 =======
 tgghs
 
+<<<<<<< HEAD
 >>>>>>> feature
 
 06-01-2019
 wer
+=======
+
+06-01-2019
+wer
+>>>>>>> feature
